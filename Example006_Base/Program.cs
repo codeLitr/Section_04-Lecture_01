@@ -12,5 +12,5 @@ if (c > max) max = c;
 if (d > max) max = d;
 if (e > max) max = e;
 
-Console.Write("max = ");
+Console.Write("max = ");// Такое сочетание (строка 15-16) позволит вывести в терминал "max = 8".
 Console.WriteLine(max);
